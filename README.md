@@ -4,7 +4,7 @@
     </a>
     <br>
     Stalwart SMTP Server
-</h1>
+</h2>
 
 <p align="center">
   <i align="center">Secure & Modern SMTP Server</i> 🛡️
